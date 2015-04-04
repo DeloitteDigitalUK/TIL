@@ -2,7 +2,7 @@
 
 `.col-2` stands in-front of the `.col-1` despite the mark-up.
 
-Read more on [content choregraphy](http://trentwalton.com/2011/07/14/content-choreography) technique.
+Read more on [content choreography](http://trentwalton.com/2011/07/14/content-choreography) technique.
 
 ```html
 <div class="summary">
