@@ -4,6 +4,6 @@ We constantly learn new things. This is a repo to share those learnings. TILs ar
 
 For new TILs, watch this repo or follow [@dd_TIL](https://twitter.com/dd_TIL) on Twitter.
 
-They TIL idea is heavily inspired by [Thoughtbot](https://github.com/thoughtbot/til).
+The TIL idea is heavily inspired by [Thoughtbot](https://github.com/thoughtbot/til).
 
 © 2015 Deloitte Digital
