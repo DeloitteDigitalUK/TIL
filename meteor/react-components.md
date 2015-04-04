@@ -1,6 +1,6 @@
 # React components in Meteor #
 
-With `react-meteor` package Meteor's templating can be extended by React components.
+With [`react-meteor`](https://github.com/reactjs/react-meteor) package Meteor's templating can be extended with React components.
 
 ### Install react-meteor ###
 In you app root directory:
