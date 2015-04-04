@@ -2,6 +2,8 @@
 
 `.col-2` stands in-front of the `.col-1` despite the mark-up.
 
+Especially useful within mobile media queries, as flexbox is almost fully supported by mobile browsers and allows to significantly change the layout for mobile devices. See [Can I Use](http://caniuse.com/#search=flex) for compatibility reference. 
+
 Read more on [content choreography](http://trentwalton.com/2011/07/14/content-choreography) technique.
 
 ```html
